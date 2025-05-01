@@ -1,1 +1,1 @@
-<?php echo 'vinay' ?>
+<?php echo 'vinay'; ?>
